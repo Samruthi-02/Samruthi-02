@@ -8,15 +8,14 @@
 - Learning the **MERN Stack** (MongoDB, Express, React, Node.js)
 - Gaining proficiency in **SQL** and relational databases
 
-### 🔙 Backend Development
+### 🔙 Software skills
 - Focused on mastering **Java** for core backend and software engineering
 - Comfortable with the basics of **Python** and **C**
 
 ## 💡 Interests
-- Backend-heavy full stack development
-- Solving logical and algorithmic problems
+- Solving logical and algorithmic problems using java
 - Working on impactful web development projects
-- Learning new technologies and frameworks
+- Backend-heavy full stack development
 
 ## 📫 Let's Connect!
 - 📧 Email: samruthicxc012@gmail.com
