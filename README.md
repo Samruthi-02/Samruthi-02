@@ -1,21 +1,16 @@
 # 👋 Hi, I'm Samruthi D!
 
-🎓 I'm currently pursuing **B.E. in Electronics and Communication Engineering (ECE)** at **Kongu Engineering College**. I'm passionate about using technology to solve real-world problems and love building web applications.
+🎓 I'm currently pursuing **B.E. in Electronics and Communication Engineering (ECE)** at **Kongu Engineering College** with a strong passion for Java programming
 
 ## 💻 Skills & Tech Stack
-
-### 🌐 Full Stack Development (In Progress)
-- Learning the **MERN Stack** (MongoDB, Express, React, Node.js)
-- Gaining proficiency in **SQL** and relational databases
+- I enjoy tackling logical and algorithmic challenges and continuously sharpening my skills to write efficient, maintainable, and scalable code.
 
 ### 🔙 Software skills
-- Focused on mastering **Java** for core backend and software engineering
+- Focused on mastering **Java**  for software engineering
 - Comfortable with the basics of **Python** and **C**
 
 ## 💡 Interests
 - Solving logical and algorithmic problems using java
-- Working on impactful web development projects
-- Backend-heavy full stack development
 
 ## 📫 Let's Connect!
 - 📧 Email: samruthicxc012@gmail.com
