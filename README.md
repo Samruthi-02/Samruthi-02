@@ -7,10 +7,13 @@
 
 ### 🔙 Software skills
 - Focused on mastering **Java**  for software engineering
+- Data structure using **C**
 - Comfortable with the basics of **Python** and **C**
+- Devloping webpages using MERN stack, SQL,HTML and CSS with help of AI and basic understanding
 
 ## 💡 Interests
-- Solving logical and algorithmic problems using java
+- Solving logical and algorithmic problems
+- Coding in different thoughts
 
 ## 📫 Let's Connect!
 - 📧 Email: samruthicxc012@gmail.com
